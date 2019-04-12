@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_conveer",
     "eventList": [
-        
+        {
+            "id": "3bc7e985-dde3-4215-b5e3-9d3030c45163",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "5ff356a4-9821-450a-bf75-48701c5c24ff",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "633f660d-3a1d-479d-aca0-90018b10e1e2"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
@@ -23,7 +32,7 @@
     "physicsShapePoints": null,
     "physicsStartAwake": true,
     "properties": null,
-    "solid": true,
+    "solid": false,
     "spriteId": "fd7b0f6a-acec-4b00-99f4-3dd9dbffa63e",
     "visible": true
 }
