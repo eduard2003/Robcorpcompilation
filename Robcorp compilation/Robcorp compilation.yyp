@@ -378,7 +378,7 @@
             "Key": "8ba97493-d503-4641-ab93-fa4fb4a82b6e",
             "Value": {
                 "id": "12712423-b823-4055-97c5-e2070b7a6e97",
-                "resourcePath": "objects\\obj_ship\\obj_ship.yy",
+                "resourcePath": "objects\\obj_ship_right\\obj_ship_right.yy",
                 "resourceType": "GMObject"
             }
         },
@@ -620,6 +620,14 @@
                 "id": "a18c0184-786b-4b47-9a85-508874624989",
                 "resourcePath": "views\\e66ded09-5232-487d-9b49-ddefdb947fb9.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e8c35b45-2351-4575-bcb5-bae0bbfe76d8",
+            "Value": {
+                "id": "7db3137a-8fb4-4b9a-9794-e48ea8477108",
+                "resourcePath": "objects\\obj_ship_left\\obj_ship_left.yy",
+                "resourceType": "GMObject"
             }
         },
         {
