@@ -626,7 +626,7 @@
             "Key": "ec6f1628-72d9-48c3-824d-952980f66b93",
             "Value": {
                 "id": "d9510936-8fc5-482e-85b9-90850e6788ec",
-                "resourcePath": "sprites\\sprite15\\sprite15.yy",
+                "resourcePath": "sprites\\spr_bomb\\spr_bomb.yy",
                 "resourceType": "GMSprite"
             }
         },

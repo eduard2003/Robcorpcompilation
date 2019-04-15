@@ -2,7 +2,7 @@
     "id": "ec6f1628-72d9-48c3-824d-952980f66b93",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "sprite15",
+    "name": "spr_bomb",
     "For3D": false,
     "HTile": false,
     "VTile": false,
