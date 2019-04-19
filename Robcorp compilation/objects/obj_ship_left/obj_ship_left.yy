@@ -15,26 +15,6 @@
             "m_owner": "e8c35b45-2351-4575-bcb5-bae0bbfe76d8"
         },
         {
-            "id": "e40c4179-bb71-4d35-86d4-08f88186a05b",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 2,
-            "m_owner": "e8c35b45-2351-4575-bcb5-bae0bbfe76d8"
-        },
-        {
-            "id": "9247de3c-0c30-482e-9fc8-d644123501c6",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": true,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 0,
-            "eventtype": 0,
-            "m_owner": "e8c35b45-2351-4575-bcb5-bae0bbfe76d8"
-        },
-        {
             "id": "50cecd65-4247-42d3-a00e-830ec6c59005",
             "modelName": "GMEvent",
             "mvc": "1.0",
@@ -45,13 +25,33 @@
             "m_owner": "e8c35b45-2351-4575-bcb5-bae0bbfe76d8"
         },
         {
-            "id": "038ca41c-59aa-45f6-a446-2bcf129e281e",
+            "id": "5c3fa064-7558-424f-acff-c2bc7aff747d",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": true,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 1,
+            "enumb": 2,
             "eventtype": 2,
+            "m_owner": "e8c35b45-2351-4575-bcb5-bae0bbfe76d8"
+        },
+        {
+            "id": "f045912a-ab78-458f-8948-a9135083d3e7",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 3,
+            "eventtype": 2,
+            "m_owner": "e8c35b45-2351-4575-bcb5-bae0bbfe76d8"
+        },
+        {
+            "id": "747d37d4-7ac2-4320-8124-f46c43001727",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 0,
             "m_owner": "e8c35b45-2351-4575-bcb5-bae0bbfe76d8"
         }
     ],
